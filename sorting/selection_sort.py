@@ -17,4 +17,3 @@ print(selection_sort(arr))
 
 # time complexity = 0(n^2)
 # space complexity = 0(1)
-

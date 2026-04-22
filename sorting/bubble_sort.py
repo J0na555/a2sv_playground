@@ -14,6 +14,7 @@ def bubble_sort(arr):
 
     return arr
 
+
 arr = [-1, 3, 5, -3, 20, 3, 6]
 
 print(bubble_sort(arr))
@@ -21,4 +22,3 @@ print(bubble_sort(arr))
 # time complexity = 0(n^2)
 # space complexity = 0(1)
 # stable sorting algorithm
-

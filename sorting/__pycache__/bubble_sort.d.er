@@ -1,0 +1,7 @@
+##[pylyzer] succeed /home/jonas/Documents/projects/a2sv/sorting/bubble_sort.py 1772113700 437
+.bubble_sort: |Type_1577: Type, Type_1526 <: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Never, Int) -> ?1571 and (self: Never, ?1577) -> ?R}), Type_1526 <: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Obj, Int) -> ?1571 and (self: Obj, ?1577) -> ?R}), Type_1571: Type, R: Type|(arr: Type_1526) -> Type_1526
+.arr: global::List!(Int, 7)
+
+e|(arr: Type_1526) -> Type_1526
+.arr: global::List!(Int, 7)
+

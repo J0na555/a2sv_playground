@@ -1,0 +1,9 @@
+##[pylyzer] succeed /home/jonas/Documents/projects/a2sv/sorting/insertion_sort.py 1772470425 386
+.insertion_sort: |Type_863 <: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Obj, ?O) -> ?903 and (self: Obj, ?907) -> ?R}), Type_907: Type, O: Type, Type_863 <: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Never, ?O) -> ?903 and (self: Never, ?907) -> ?R}), R: Type, Type_903: Type|(arr: Type_863) -> Type_863
+.arr: global::List!(Int, 7)
+
+(Int, 7)
+
+|(arr: Type_2423) -> Type_2423
+.arr: global::List!(Int, 7)
+

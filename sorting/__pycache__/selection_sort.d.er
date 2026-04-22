@@ -1,0 +1,7 @@
+##[pylyzer] succeed /home/jonas/Documents/projects/a2sv/sorting/selection_sort.py 1772470369 367
+.selection_sort: |Type_894 <: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Obj, Int) -> ?934 and (self: Obj, Int) -> ?R}), R: Type, Type_934: Type, Type_894 <: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Never, Int) -> ?934 and (self: Never, Int) -> ?R})|(arr: Type_894) -> Type_894
+.arr: global::List!(Int, 7)
+
+ Type_894) -> Type_894
+.arr: global::List!(Int, 7)
+

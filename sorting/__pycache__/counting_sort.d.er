@@ -1,0 +1,4 @@
+##[pylyzer] failed /home/jonas/Documents/projects/a2sv/sorting/counting_sort.py 1772201039 451
+.counting_sort: |D: global::GenericDict, Type_104 <: global::Dict!(?D)|(arr: Type_104) -> Type_104
+.arr: global::List!({5, 8, 20, 3, 6}, 7)
+
